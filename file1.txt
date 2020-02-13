@@ -7,3 +7,6 @@ change :user details
 change to bug1
 
 change:file changed by teamamte
+
+change to fix bug2
+
