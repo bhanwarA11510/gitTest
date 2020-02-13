@@ -3,3 +3,5 @@ hello git!
 welcome to  git 
 
 change :user details
+
+change to bug1
